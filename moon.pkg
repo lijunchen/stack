@@ -1,1 +1,4 @@
 package stack
+
+import "github.com/lijunchen/stack/lib/A"
+import "github.com/lijunchen/stack/lib/B"
